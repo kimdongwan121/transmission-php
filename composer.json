@@ -1,5 +1,5 @@
 {
-    "name": "kleiram/transmission-php",
+    "name": "kimdongwan121/transmission-php",
     "description": "PHP Transmission client",
     "keywords": ["transmission", "torrent", "download"],
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "kriswallsmith/buzz": ">=0.9",
+        "kriswallsmith/buzz": "^0.9",
         "symfony/property-access": ">=2.2.1"
     },
     "autoload": {
